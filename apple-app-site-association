@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "YZ7JJ89AGH.ru.fix-price.ios-app",
-                "paths": ["/profile/confirm/*"]
+                "paths": ["*"]
             }
         ]
     }
